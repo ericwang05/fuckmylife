@@ -16,11 +16,8 @@ const int CONVEYOR = 2;
 //sensors
 const int _IMU = 14;
 const int _IMU2 = 20;
-const char LPOT = 'A';
-const char RPOT = 'B';
 
 //pneumatics
-const char LTILT = 'C';
-const char RTILT = 'D';
-const char FCLAMP = 'E';
+const char TILT = 'E';
+const char FCLAMP = 'A';
 const char BCLAMP = 'F';
